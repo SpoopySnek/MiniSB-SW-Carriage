@@ -10,5 +10,5 @@ It removes the need for the extra square mounting piece that's added on the x ax
 
 If you're planning to run a BTT EBB36 for CANBUS, I'd recommend pairing [BTT EBB36 Canbus Voron CW2 Mount](https://www.printables.com/model/320325-btt-ebb36-canbus-voron-cw2-mount-moons-pancake-mot) w/ the MiniSB spacers.
 
-<p>**Update Feb 03, 2023: 2nd round of revisions, overhangs shouldn't be an issue anymore.**
-~~Update Jan 21, 2023: Redid design to account for overhangs.~~</p>
+**Update Feb 03, 2023: 2nd round of revisions, overhangs shouldn't be an issue anymore.**
+~~Update Jan 21, 2023: Redid design to account for overhangs.~~
