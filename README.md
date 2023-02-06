@@ -3,7 +3,7 @@
 
 ![EW_MINI_SB](https://github.com/SpoopySnek/MiniSB-SW-Carriage/blob/main/IMG/EW_MINI_SB.png)
 
-**Update Feb 03, 2023: 2nd round of revisions, overhangs shouldn't be an issue anymore.**
+**Update Feb 03, 2023: 2nd round of revisions; overhangs shouldn't be an issue anymore.**
 
 ~~Update Jan 21, 2023: Redid design to account for overhangs.~~
 
