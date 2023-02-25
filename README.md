@@ -3,7 +3,9 @@
 
 ![EW_MINI_SB](https://github.com/SpoopySnek/MiniSB-SW-Carriage/blob/main/IMG/EW_MINI_SB.png)
 
-**Update Feb 03, 2023: 2nd round of revisions; overhangs shouldn't be an issue anymore.**
+**Update Feb 25, 2023: 3nd round of revisions; Should have enough room for klicky/Omron inductuve probe(untested).**
+
+~~Update Feb 03, 2023: 2nd round of revisions; overhangs shouldn't be an issue anymore.~~
 
 ~~Update Jan 21, 2023: Redid design to account for overhangs.~~
 
