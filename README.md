@@ -1,9 +1,11 @@
-# MiniSB-SW-Carriage
-### MOD IS STILL UNTESTED, PLEASE USE AT YOUR OWN RISK AND REPORT ANY ISSUES/CONCERNS!
+# MiniSB-SW-Carriage * ALPHA TESTING*
+### MOD IS CURRENTLY RELEASED IN ALPHA TESTING, PLEASE USE AT YOUR OWN RISK AND REPORT ANY ISSUES/CONCERNS!
 
 ![EW_MINI_SB](https://github.com/SpoopySnek/MiniSB-SW-Carriage/blob/main/IMG/EW_MINI_SB.png)
 
-**Update Feb 25, 2023: 3nd round of revisions; Should have enough room for klicky/Omron inductuve probe(untested).**
+**Update Mar 28, 2023: Klicky confirmed to fit and work. Alpha testing in effect.**
+
+~~Update Feb 25, 2023: 3nd round of revisions; Should have enough room for klicky/Omron inductuve probe(untested).~~
 
 ~~Update Feb 03, 2023: 2nd round of revisions; overhangs shouldn't be an issue anymore.~~
 
