@@ -2,7 +2,9 @@
 
 ![EW_MINI_SB](https://github.com/SpoopySnek/MiniSB-SW-Carriage/blob/main/IMG/EW_MINI_SB.png)
 
-**Update Mar 28, 2023: Klicky confirmed to fit and work.Due to how low the motor sits, any toolhead PCB/CAN board will need to go umbilical on x axis. Alpha testing in effect. EDIT: ADDED CAD FILES; UPLOADED ALT VERSION FOR INDUCTIVE PROBE TESTING**
+**Update Jul 20, 2023: Klicky confirmed to fit and work.Due to how low the motor sits, any toolhead PCB/CAN board will need to go umbilical on x axis. Only thing untested is inductive probes.**
+
+~~Update Mar 28, 2023: Klicky confirmed to fit and work.Due to how low the motor sits, any toolhead PCB/CAN board will need to go umbilical on x axis. Alpha testing in effect. EDIT: ADDED CAD FILES; UPLOADED ALT VERSION FOR INDUCTIVE PROBE TESTING~~
 
 ~~Update Feb 25, 2023: 3nd round of revisions; Should have enough room for klicky/Omron inductuve probe(untested).~~
 
