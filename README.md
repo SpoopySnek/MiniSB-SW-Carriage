@@ -1,5 +1,4 @@
-# MiniSB-SW-Carriage * ALPHA TESTING*
-### MOD IS CURRENTLY RELEASED IN ALPHA TESTING, PLEASE USE AT YOUR OWN RISK AND REPORT ANY ISSUES/CONCERNS!
+# MiniSB-SW-Carriage
 
 ![EW_MINI_SB](https://github.com/SpoopySnek/MiniSB-SW-Carriage/blob/main/IMG/EW_MINI_SB.png)
 
